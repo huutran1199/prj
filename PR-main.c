@@ -15,7 +15,7 @@
 #define EXIT	7
 #define M_01 1     //Error: File is existed.
 #define M_02 2     //Error: A file name cannot contain any of the special character.
-#define M_03 3     //Error: ID doesn’t exist.
+#define M_03 3     //Error: ID doesnâ€™t exist.
 #define M_04 4     //Error: The score is not valid, please try again with score [0...10].  
 #define M_05 5     //Create file successfully.
 #define M_06 6 
